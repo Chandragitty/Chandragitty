@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chandragitty
+- 👋 Hi, I’m Chandra Bandreddy
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate with people who are
