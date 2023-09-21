@@ -1,8 +1,5 @@
 - 👋 Hi,this is Chandra
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate with people who are
-interested to develop Java and Python based applications
 - 📫 How to reach me: Just drop a mail to yourschandra488@gmail.com
 
 <!---
